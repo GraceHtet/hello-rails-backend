@@ -49,3 +49,4 @@ end
 
 gem "dotenv-rails", "~> 2.8"
 
+gem "rswag", "~> 2.10"
