@@ -50,3 +50,5 @@ end
 gem "dotenv-rails", "~> 2.8"
 
 gem "rswag", "~> 2.10"
+
+gem "rack-cors", "~> 2.0"
