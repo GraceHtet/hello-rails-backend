@@ -53,3 +53,11 @@ gem 'dotenv-rails', '~> 2.8'
 gem 'rswag', '~> 2.10'
 
 gem 'rack-cors', '~> 2.0'
+
+gem "rspec-core", "~> 3.12"
+
+gem "rspec-support", "~> 3.12"
+
+gem "rswag-specs", "~> 2.10"
+
+gem "rspec-rails", "~> 6.0"
